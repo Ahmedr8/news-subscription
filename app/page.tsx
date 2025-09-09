@@ -307,6 +307,7 @@ export default function NewsSubscriptionPage() {
                       <SelectItem value="text">📝 Text</SelectItem>
                       <SelectItem value="audio">🎧 Audio</SelectItem>
                       <SelectItem value="video">📹 Video</SelectItem>
+                      <SelectItem value="image">🖼️ Image</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
