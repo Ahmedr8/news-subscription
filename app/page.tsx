@@ -97,7 +97,7 @@ export default function NewsSubscriptionPage() {
 
     // Simulate API call
     try {
-      const response = await fetch("https://khaliltalan.app.n8n.cloud/webhook/0b130878-e62b-442f-9c3e-3ea352dc076c", {
+      const response = await fetch("https://ahmedaminetalan.app.n8n.cloud/webhook/b5c7479b-8808-4285-a6b0-1c8da77a95d8", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
